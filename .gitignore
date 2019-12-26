@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+google-python-exercises
+google-python-exercises.zip
+
+.DS_Store
